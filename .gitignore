@@ -1,0 +1,16 @@
+# img 
+*.jpg
+*.png
+*.php
+images/
+
+#videos
+*.mp4
+
+#packages
+
+#log
+*.log
+
+
+password.txt
